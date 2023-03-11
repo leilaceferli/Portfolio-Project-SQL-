@@ -1,1 +1,1 @@
-Link for Covid dataset (for first project):  https://ourworldindata.org/covid-deaths
+Link to Covid dataset (For the first project):  https://ourworldindata.org/covid-deaths
